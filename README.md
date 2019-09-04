@@ -1,5 +1,5 @@
 # A-player
-a html5 video player practice，copy from D-player
+a HTML5 video player practice，copy from D-player
 
 ## Install
 
